@@ -1,0 +1,13 @@
+# Raster images
+
+*.tif
+S2B_*
+
+# Geo Stuff
+
+*.qmd
+*.aux.xml
+*.gpkg
+
+# PyCharm
+.idea

@@ -1,0 +1,4 @@
+sentinelsat==1.2.1
+geopandas==0.12.2
+rasterio
+matplotlib
