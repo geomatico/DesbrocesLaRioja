@@ -3,6 +3,7 @@
 *.tif
 *.tiff
 S2B_*
+!ECOv002_L2T_LSTE_26947_002_30TVK_20230407T112014_0710_01_LST.tif
 
 # Geo Stuff
 
