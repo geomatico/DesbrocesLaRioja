@@ -1,6 +1,7 @@
 # Raster images
 
 *.tif
+*.tiff
 S2B_*
 
 # Geo Stuff
