@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "capellan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "TIPO": "Area cortafuegos", "Notas": null, "Mup": 0.0, "Municipio": null, "FECHA": "2015", "Proyecto": "CAPELLAN", "Codigo": "28_AC_01", "Trabajo": "Desbroce", "Obsevacio": null, "SUP": 5.9820976562499997, "01.- Estado vegetativo_field_1": null, "01.- Estado vegetativo_NOMBRE": "ANGUIANO", "01.- Estado vegetativo_HA": "9,62", "01.- Estado vegetativo_DIFICULTAD": "baja", "01.- Estado vegetativo_FECHA INICIO DESBROCE": "23/05/2022", "01.- Estado vegetativo_FECHA FIN ESBROCE": "31/07/2022" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.72213045804394, 42.277733018217297 ], [ -2.71254232120341, 42.277733018217297 ], [ -2.71254232120341, 42.283697862953701 ], [ -2.72213045804394, 42.283697862953701 ], [ -2.72213045804394, 42.277733018217297 ] ] ] ] } }
+]
+}
